@@ -1,4 +1,4 @@
 Test Commit
 
-추가된 메세지입니다.
-추가된 메세지 입니다.
+Hello Git
+Hello World
