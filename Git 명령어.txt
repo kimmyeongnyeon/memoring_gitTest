@@ -1,0 +1,9 @@
+<Git Hub> 순서 및 명령어
+
+git init : 저장한 스크립트 폴더에 git 폴더 생성
+git remote add origin (깃허브 주소창) : Git에서 보관해야 할  스크립트와 연결 
+git pull origin master : 지정해놓은 Repository(Git 보관하고 있는 폴더)에서 끌어온다
+git status : 현재 Git 과의 상태를 Check 한다.
+git add . : 변경된 파일들을 모두 Tracking 하는 명령어 
+git commit -m "messge": 변경사항을 깃에서 업로드 할때 설명을 달아줄때 ""에 넣어준다.
+git push origin master : 실제로 Git 에 Push(업로드 완료)
